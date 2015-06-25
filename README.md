@@ -18,7 +18,7 @@
 **Steps**
 
 1. Run the clipIEEGsegs.m file in matlab. Be sure to have your ieeg.org pw file in the current working directory. Alter the ieeg.org access command so that it reflects *your* username and pw file.
-2. Store the EEG .mat files in a folder labeled 'Patient_#' where the # indicates the patient ID (1-8)
+2. Store the EEG .mat files in a folder labeled 'Patient_#' where the # indicates the patient ID (1-8).
 
 ## Seizure Detection
 **Run algorithms on clips**
