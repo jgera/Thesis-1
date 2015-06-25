@@ -23,7 +23,7 @@
 ## Seizure Detection
 **Run algorithms on clips**
 
-  Each Kaggle algorithm is accompanied by a README file that explains where the clipped files need to be placed. Some of the code detailing clip location (directory name) may need to be changed. The standard detector must be run first, however, as it also generates the key in the process of loading in the files.  
+  Each Kaggle algorithm is accompanied by a README file that explains where the clipped files need to be placed. Some of the code detailing clip location (directory name) may need to be changed. In addition, make certain you have all the necessary dependencies installed. The standard detector must be run first, however, as it also generates the key in the process of loading in the files.  
 
 ## Thesis Postprocessing
   
