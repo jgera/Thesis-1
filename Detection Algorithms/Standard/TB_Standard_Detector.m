@@ -22,9 +22,9 @@ fprintf('Loading Library...')
 % add path to clips
 addpath(genpath('lib'))
 
-
-pathstr = sprintf('Patient_%d',pn);
-addpath(genpath(pathstr))
+addpath(genpath('clips'))
+% pathstr = sprintf('Patient_%d',pn);
+% addpath(genpath(pathstr))
 fprintf('Done! \n')
 
 %% Features
